@@ -12,13 +12,12 @@
   
 - 🌱 I’m currently learning **Front-End Technologys**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **[UTN La Rioja](http://www.frlr.utn.edu.ar/)**
 
 - 💬 Ask me about **Web development | OOC**
 
 - 📫 How to reach me fast**alfredoandresarnedo@gmail.com**
-  
-- ⚡ Fun fact **Call me as KD**
+
 
 </td>
 <td width="50%" align="center">
