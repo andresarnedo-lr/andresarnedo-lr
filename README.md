@@ -20,7 +20,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/">
 
   
   </td>
@@ -39,7 +39,10 @@
   
 - **Mobile Development**:
 
-   [![My Skills](https://skillicons.dev/icons?i=flutter,android)](https://skillicons.dev)
+   [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#) [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#) [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
+
+
+
 
 
 
