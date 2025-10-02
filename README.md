@@ -20,9 +20,9 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/">
 
-  
+![unnamed](https://github.com/user-attachments/assets/8ecfe363-de80-4212-b1e1-fb84bc7eccee)
+
   </td>
 </tr>
 </table>
