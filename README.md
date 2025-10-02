@@ -3,20 +3,18 @@
 
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Arnedo Andres Alfredo</h1>
-<h3 align="center">Passionate Developer Web Student | Programming as a lifestyle </h3>
+<h3 align="center">Passionate Developer Android Mobile | Programming as a lifestyle </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andresarnedo-lr&label=Profile%20views&color=0e75b6&style=flat" alt="andresarnedo-lr" /> </p>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Front-End Technologys**
+- 🌱 I’m currently learning **Mobile Technologys**
 
-- 🧑‍🎓 I’m Studient at **[UTN La Rioja](http://www.frlr.utn.edu.ar/)**
+- 💬 Ask me about **Mobile development | OOC**
 
-- 💬 Ask me about **Web development | OOC**
-
-- 📫 How to reach me fast**alfredoandresarnedo@gmail.com**
+- 📫 How to reach me fast **alfredoandresarnedo@gmail.com**
 
 
 </td>
@@ -36,18 +34,18 @@
 
 - **Languages**:
 
-   [![My Skills](https://skillicons.dev/icons?i=py,js)](https://skillicons.dev) 
+   [![My Skills](https://skillicons.dev/icons?i=dart,kotlin)](https://skillicons.dev) 
   
   
-- **Front-End Development**:
+- **Mobile Development**:
 
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=flutter,android)](https://skillicons.dev)
 
 
 
 - **Softwares and Tools**:
 
-   [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=git,github,androidstudio,firebase,gradle)](https://skillicons.dev)
 </p>
 <br />
 
@@ -111,16 +109,6 @@
 </div>
 
 ---
-
-<!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
 
 <!--Contact Section--> 
 
