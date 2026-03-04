@@ -76,9 +76,10 @@ Desarrollador enfocado en el ecosistema **Android**, con una fuerte pasión por 
 | **Categoría** | **Tecnologías** |
 | :--- | :--- |
 | **Lenguajes** | <img src="https://skillicons.dev/icons?i=kotlin" /> |
-| **UI Frameworks** | <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" /> <img src="https://img.shields.io/badge/Material_Design_3-3DDC84?style=for-the-badge&logo=materialdesign&logoColor=white" /> <img src="https://img.shields.io/badge/XML_Layouts-767C52?style=for-the-badge&logo=xml&logoColor=white" /> |
-| **Local Data** | <img src="https://skillicons.dev/icons?i=sqlite,firebase" /> <img src="https://img.shields.io/badge/Room_DB-3DDC84?style=for-the-badge" /> |
-| **Dev Tools** | <img src="https://skillicons.dev/icons?i=androidstudio,git,github,gradle" /> |
+| **UI Frameworks** | <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" /> <img src="https://img.shields.io/badge/Material_Design_3-3DDC84?style=for-the-badge&logo=materialdesign&logoColor=white"/><img src="https://img.shields.io/badge/XML_Layouts-767C52?style=for-the-badge&logo=xml&logoColor=white" /> |
+ | **Local Data** | <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,firebase" /> <img src="https://img.shields.io/badge/Room_DB-3DDC84?style=for-the-badge" /> |
+ | **Testing** | <img src="https://go-skill-icons.vercel.app/api/icons?i=junit," />|
+ | **Dev Tools** | <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio,git,github,gemini,googleplay,gradle"/> |
 
 </div>
 
